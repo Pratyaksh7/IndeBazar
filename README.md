@@ -1,0 +1,2 @@
+# IndeBazar
+This project contains an admin section in which there exists two sections: 1. Products  2. Categories The Categories which we can add, update or delete will automatically get modified within the Product section..  The Products contains the same features of adding , updating and deleting the products.. All the Products listing is done on the product-dashboard, displaying the information of each product including their images. The admin-dashboard displays the admins username and email..
